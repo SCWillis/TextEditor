@@ -22,6 +22,8 @@ namespace TextEditorV1
     {
         public MainWindow()
         {
+
+            Console.WriteLine("THIS IS A TESTdwdwdwd");
             InitializeComponent();
         }
     }
